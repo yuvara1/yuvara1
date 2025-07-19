@@ -14,11 +14,14 @@ I strive to deliver high-quality, maintainable software and enjoy tackling compl
 
 ## 🚀 Notable Projects
 
-- **[Cloud Pen](https://cloudpen.web.app)**  
-  An online text editor designed for seamless cloud-based writing and collaboration.
+  - **[Oli](https://olii-ott.web.app)**  
+  Oli-OTT is a dynamic Over-The-Top (OTT) streaming platform designed for seamless viewing of movies and web series. The platform features an integrated subscription-based payment system that allows users to access premium content based on their chosen plans. It offers a user-friendly interface for streaming, content discovery, and account management
 
 - **[Kellikai](https://kellikai.web.app)**  
   A mini social media website built to connect users and foster engaging online communities.
+
+  - **[Cloud Pen](https://cloudpen.web.app)**  
+  An online text editor designed for seamless cloud-based writing and collaboration.
 
 ---
 
