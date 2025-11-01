@@ -20,8 +20,8 @@ I thrive on solving complex problems, optimizing performance, and writing clean,
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| [**Oli**](https://olii-ott.web.app) | OTT streaming platform with secure subscriptions and responsive UI. | React, Firebase, Stripe |
-| [**Kellikai**](https://kellikai.web.app) | Social networking app for connecting and sharing in communities. | React, Node.js, MongoDB |
+| [**Oli**](https://olii-ott.web.app) | OTT streaming platform with secure subscriptions and responsive UI. | React, Firebase, Razorpay, Cloudinary |
+| [**Kellikai**](https://kellikai.web.app) | Social networking app for connecting and sharing in communities. | React, Node.js, MySQL |
 | [**Cloud Pen**](https://cloudpen-in.web.app) | Cloud-based collaborative text editor with real-time updates. | React, Express, Firebase |
 
 ---
