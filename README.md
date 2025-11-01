@@ -1,47 +1,51 @@
-# Hi, I'm yuvaraj 👋
+<h1 align="center">⚡ Hi, I'm <a href="https://yuvaraj-in.web.app">Yuvaraj</a> 👋</h1>
 
-## About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Java+Expert;Open+Source+Contributor;Lifelong+Learner&center=true&width=520&height=45&color=00FFFF&vCenter=true&size=22">
+</p>
 
-[![window widget](https://window-lemon.vercel.app/api/Window?titleBar=Developer&title=YUVARAJ&desc=I+am+a+Full+Stack+Developer+passionate+about+building+robust+and+scalable+applications.+My+expertise+spans+both+frontend+and+backend+technologies%2C+with+a+strong+Knowledge+in+Java+I+strive+to+deliver+high-quality%2C+maintainable+software+and+enjoy+tackling+complex+challenges+in+software+engineering.&theme=dark)](https://github.com/your-username/your-repo)
+---
+
+## 🧠 About Me
+
+[![window widget](https://window-lemon.vercel.app/api/Window?titleBar=Developer&title=YUVARAJ&desc=I+am+a+Full+Stack+Developer+passionate+about+building+robust+and+scalable+applications.+My+expertise+spans+both+frontend+and+backend+technologies%2C+with+a+strong+foundation+in+Java.+I+strive+to+deliver+high-quality+software+and+love+tackling+complex+engineering+problems.&theme=dark)](https://yuvaraj-in.web.app)
+
 ---
 
 ## 🚀 Notable Projects
 
-- **[Oli](https://olii-ott.web.app)**  
-  Oli-OTT is a dynamic Over-The-Top (OTT) streaming platform designed for seamless viewing of movies and web series. The platform features an integrated subscription-based payment system that allows u[...]
-
-- **[Kellikai](https://kellikai.web.app)**  
-  A mini social media website built to connect users and foster engaging online communities.
-
-- **[Cloud Pen](https://cloudpen-in.web.app)**  
-  An online text editor designed for seamless cloud-based writing and collaboration.
+- **[Oli](https://olii-ott.web.app)** 🎬 OTT streaming platform with subscription-based payments.  
+- **[Kellikai](https://kellikai.web.app)** 💬 Mini social media platform for user engagement.  
+- **[Cloud Pen](https://cloudpen-in.web.app)** ☁️ Real-time online text editor for cloud collaboration.
 
 ---
 
-## 🛠️ Core Skills
+## 🛠️ Tech Stack
 
-- Full Stack Web Development
-- Backend Engineering
-- Object-Oriented Programming
-- Data Structures & Algorithms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,java,mysql,mongodb,git,github,linux&perline=7" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![yuvara1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvara1&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvara1&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvara1&show_icons=true&theme=radical&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvara1&layout=compact&theme=radical&hide_border=true" height="165">
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/yuvaraj-b-6b498528a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-informational?logo=google-chrome)](https://yuvaraj-in.web.app)
+<p align="center">
+  <a href="https://linkedin.com/in/yuvaraj-b-6b498528a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="https://yuvaraj-in.web.app"><img src="https://img.shields.io/badge/Portfolio-FF00FF?logo=firefox&logoColor=white&style=for-the-badge"></a>
+</p>
 
 ---
 
-## 👁️ Profile Visitor Counter
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yuvara1&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yuvara1&label=Visitors&color=00FFFF&style=for-the-badge">
+</p>
