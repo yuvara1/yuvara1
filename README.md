@@ -2,14 +2,7 @@
 
 ## About Me
 
-I am a **Full Stack Developer** passionate about building robust and scalable applications. My expertise spans both frontend and backend technologies, with a strong foundation in:
-
-- **C**
-- **C++**
-- **Java**
-
-I strive to deliver high-quality, maintainable software and enjoy tackling complex challenges in software engineering.
-
+[![window widget](https://window-lemon.vercel.app/api/Window?titleBar=Developer&title=YUVARAJ&desc=I+am+a+Full+Stack+Developer+passionate+about+building+robust+and+scalable+applications.+My+expertise+spans+both+frontend+and+backend+technologies%2C+with+a+strong+Knowledge+in+Java+I+strive+to+deliver+high-quality%2C+maintainable+software+and+enjoy+tackling+complex+challenges+in+software+engineering.&theme=dark)](https://github.com/your-username/your-repo)
 ---
 
 ## 🚀 Notable Projects
