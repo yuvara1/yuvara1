@@ -1,142 +1,94 @@
-<h1 align="center">👋 Hi, I'm <a href="https://yuvaraj-in.web.app">Yuvaraj</a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://yuvaraj-in.web.app">Yuvaraj B</a></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Java+Expert;Open+Source+Contributor;Creative+Technologist&center=true&width=520&height=45&color=00FFFF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Software+Engineer;Java+Specialist;Lifelong+Learner&center=true&width=520&height=45&color=2E8BFF&vCenter=true&size=22">
 </p>
 
 ---
 
-## 🎨 Choose a Theme
+## 💼 About Me
 
-Below are five distinct styles of my GitHub Profile — click to explore each one:
+I am a **Full Stack Developer** passionate about building **robust**, **scalable**, and **maintainable software systems**.  
+My expertise spans both **frontend and backend development**, with a strong foundation in **Java** and modern **web technologies**.  
+I thrive on solving complex problems, optimizing performance, and writing clean, reliable code.
 
----
-
-<details open>
-<summary>🖤 <b>Dark Neon Theme</b> (Cyberpunk Developer Vibe)</summary>
-
-<br>
-
-<h2 align="center">⚡ Yuvaraj — Full Stack Developer</h2>
-
-[![window widget](https://window-lemon.vercel.app/api/Window?titleBar=Developer&title=YUVARAJ&desc=I+am+a+Full+Stack+Developer+passionate+about+building+robust+and+scalable+applications.+My+expertise+spans+both+frontend+and+backend+technologies%2C+with+a+strong+foundation+in+Java.+I+strive+to+deliver+high-quality+software+and+love+tackling+complex+engineering+problems.&theme=dark)](https://yuvaraj-in.web.app)
-
-### 🚀 Projects
-- **[Oli](https://olii-ott.web.app)** 🎬 OTT streaming platform with subscription system  
-- **[Kellikai](https://kellikai.web.app)** 💬 Mini social media app  
-- **[Cloud Pen](https://cloudpen-in.web.app)** ☁️ Online text editor
-
-### 🧠 Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,java,mysql,mongodb,git,linux&perline=7" />
-</p>
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvara1&show_icons=true&theme=radical&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvara1&layout=compact&theme=radical&hide_border=true" height="165">
-</p>
+> “Great software is born at the intersection of craftsmanship and curiosity.”
 
 ---
 
-</details>
+## 🚀 Featured Projects
 
----
-
-<details>
-<summary>☀️ <b>Light Minimal Theme</b> (Professional & Clean)</summary>
-
-<br>
-
-<h2 align="center">☀️ Yuvaraj — Clean & Elegant Developer</h2>
-
-> Full Stack Developer passionate about creating scalable and maintainable software.
-
-### 🚀 Projects
-- [**Oli**](https://olii-ott.web.app) — OTT streaming app  
-- [**Kellikai**](https://kellikai.web.app) — Mini social app  
-- [**Cloud Pen**](https://cloudpen-in.web.app) — Cloud-based text editor  
-
-### 🛠️ Core Skills
-**Frontend:** React, Next.js, HTML, CSS, JavaScript  
-**Backend:** Node.js, Express, Java  
-**Database:** MySQL, MongoDB  
-**Other:** Git, Linux  
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvara1&show_icons=true&theme=graywhite" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvara1&layout=compact&theme=graywhite" height="165">
-</p>
-
-</details>
-
----
-
-<details>
-<summary>🧑‍💼 <b>Professional Corporate Theme</b> (Recruiter Friendly)</summary>
-
-<br>
-
-<h2 align="center">Yuvaraj B — Software Engineer</h2>
-
-Driven software engineer skilled in **Java**, **React**, and **Node.js**, passionate about scalable, production-ready solutions.
-
-### 🚀 Key Projects
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| [**Oli**](https://olii-ott.web.app) | OTT streaming app | React, Firebase, Stripe |
-| [**Kellikai**](https://kellikai.web.app) | Social networking platform | React, Node.js, MongoDB |
-| [**Cloud Pen**](https://cloudpen-in.web.app) | Online collaboration tool | React, Express, Firebase |
-
-### 🧰 Expertise
-- **Languages:** Java, JavaScript, TypeScript  
-- **Frameworks:** React, Node.js, Express  
-- **Databases:** MySQL, MongoDB  
-- **Tools:** Git, Docker, CI/CD  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvara1&show_icons=true&theme=blueberry&hide_border=true">
-</p>
-
-</details>
+| [**Oli**](https://olii-ott.web.app) | OTT streaming platform with secure subscriptions and responsive UI. | React, Firebase, Stripe |
+| [**Kellikai**](https://kellikai.web.app) | Social networking app for connecting and sharing in communities. | React, Node.js, MongoDB |
+| [**Cloud Pen**](https://cloudpen-in.web.app) | Cloud-based collaborative text editor with real-time updates. | React, Express, Firebase |
 
 ---
 
-<details>
-<summary>🌈 <b>Creative Gradient Theme</b> (Modern & Eye-Catching)</summary>
+## 🛠️ Technical Expertise
 
-<br>
-
-<h2 align="center">🌈 Yuvaraj — Design Meets Code</h2>
-
-Creative full-stack developer blending **design thinking** and **technical excellence** to craft delightful digital experiences.
-
-### 💫 Projects
-- ✨ [**Oli**](https://olii-ott.web.app) — Stream movies effortlessly  
-- 💬 [**Kellikai**](https://kellikai.web.app) — Connect & share ideas  
-- ☁️ [**Cloud Pen**](https://cloudpen-in.web.app) — Write & collaborate online  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,java,nodejs,express,mongodb,git,linux&theme=light" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvara1&show_icons=true&theme=gradient&hide_border=true">
-</p>
-
-</details>
+| Category | Technologies |
+|-----------|---------------|
+| **Languages** | Java, JavaScript, TypeScript |
+| **Frontend** | React, Next.js, HTML5, CSS3, Tailwind |
+| **Backend** | Node.js, Express, RESTful APIs |
+| **Database** | MySQL, MongoDB |
+| **DevOps & Tools** | Git, GitHub, Linux, Firebase, Docker (basic) |
 
 ---
 
-<details>
-<summary>⚡ <b>Matrix Dark Theme</b> (Terminal Hacker Aesthetic)</summary>
+## 📈 GitHub Insights
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvara1&show_icons=true&theme=blueberry&hide_border=true&rank_icon=github&bg_color=00000000" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvara1&layout=compact&theme=blueberry&hide_border=true&bg_color=00000000" height="165" />
+</p>
 
-<h2 align="center" style="color:#00FF00;">💻 Yuvaraj — Code. Create. Conquer.</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yuvara1&theme=blueberry&hide_border=true" height="165" />
+</p>
 
-```bash
-> whoami
-> Yuvaraj — Full Stack Developer (Java | React | Node.js)
-> Building scalable systems and elegant UIs ⚙️
+---
+
+## 🧠 Core Strengths
+
+- Strong foundation in **object-oriented programming** and **data structures**
+- Experience with **full-stack web application development**
+- Focused on **clean architecture**, **performance optimization**, and **best coding practices**
+- Excellent communicator and collaborative team player
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yuvaraj-b-6b498528a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://yuvaraj-in.web.app"><img src="https://img.shields.io/badge/Portfolio-0052CC?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:yuvaraj@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+## 🧩 Continuous Learning
+
+I’m currently exploring:
+- **Microservices architecture**
+- **Cloud-native app design**
+- **System design principles**
+
+I believe learning never stops — and I continuously evolve to stay aligned with industry standards.
+
+---
+
+## 👁️ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yuvara1&label=Profile+Views&color=0A66C2&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Craft code that speaks for itself.”</i>  
+</p>
