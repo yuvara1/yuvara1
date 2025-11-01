@@ -81,7 +81,7 @@ I thrive on solving complex problems, optimizing performance, and writing clean,
 <p align="center">
   <a href="https://www.linkedin.com/in/yuvaraj-b-6b498528a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://yuvaraj-in.web.app"><img src="https://img.shields.io/badge/Portfolio-0052CC?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:yuvaraj@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:yuvarajacb11@zohomail.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
