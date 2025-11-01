@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <a href="https://yuvaraj-in.web.app">YUVARAJ B</a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://yuvaraj-in.web.app">Yuvaraj B</a></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Software+Engineer;Java+Specialist;Lifelong+Learner&center=true&width=520&height=45&color=2E8BFF&vCenter=true&size=22">
@@ -20,8 +20,8 @@ I thrive on solving complex problems, optimizing performance, and writing clean,
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| [**Oli**](https://olii-ott.web.app) | OTT streaming platform with secure subscriptions and responsive UI. | React, Firebase, Razorpay, Cloudinary |
-| [**Kellikai**](https://kellikai.web.app) | Social networking app for connecting and sharing in communities. | React, Node.js, MySQL |
+| [**Oli**](https://olii-ott.web.app) | OTT streaming platform with secure subscriptions and responsive UI. | React, Firebase, Stripe |
+| [**Kellikai**](https://kellikai.web.app) | Social networking app for connecting and sharing in communities. | React, Node.js, MongoDB |
 | [**Cloud Pen**](https://cloudpen-in.web.app) | Cloud-based collaborative text editor with real-time updates. | React, Express, Firebase |
 
 ---
@@ -30,8 +30,8 @@ I thrive on solving complex problems, optimizing performance, and writing clean,
 
 | Category | Technologies |
 |-----------|---------------|
-| **Languages** | Java, JavaScript,C++ |
-| **Frontend** | React, HTML5, CSS3, Tailwind |
+| **Languages** | Java, JavaScript, TypeScript |
+| **Frontend** | React, Next.js, HTML5, CSS3, Tailwind |
 | **Backend** | Node.js, Express, RESTful APIs |
 | **Database** | MySQL, MongoDB |
 | **DevOps & Tools** | Git, GitHub, Linux, Firebase, Docker (basic) |
@@ -47,6 +47,14 @@ I thrive on solving complex problems, optimizing performance, and writing clean,
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yuvara1&theme=blueberry&hide_border=true" height="165" />
+</p>
+
+---
+
+## 📅 Commit Calendar
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvara1&theme=react-dark&hide_border=true&bg_color=0D1117&line=2E8BFF&point=FFFFFF" alt="Yuvaraj's GitHub Activity Graph" />
 </p>
 
 ---
@@ -75,7 +83,6 @@ I thrive on solving complex problems, optimizing performance, and writing clean,
 I’m currently exploring:
 - **Microservices architecture**
 - **Cloud-native app design**
-- **DSA**
 - **System design principles**
 
 I believe learning never stops — and I continuously evolve to stay aligned with industry standards.
@@ -91,5 +98,5 @@ I believe learning never stops — and I continuously evolve to stay aligned wit
 ---
 
 <p align="center">
-  <i>“Craft code that speaks for itself.”</i>  
+  <i>“Craft code that speaks for itself.”</i>
 </p>
