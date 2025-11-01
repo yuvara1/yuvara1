@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <a href="https://yuvaraj-in.web.app">Yuvaraj B</a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://yuvaraj-in.web.app">YUVARAJ B</a></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Software+Engineer;Java+Specialist;Lifelong+Learner&center=true&width=520&height=45&color=2E8BFF&vCenter=true&size=22">
