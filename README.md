@@ -30,8 +30,8 @@ I thrive on solving complex problems, optimizing performance, and writing clean,
 
 | Category | Technologies |
 |-----------|---------------|
-| **Languages** | Java, JavaScript, TypeScript |
-| **Frontend** | React, Next.js, HTML5, CSS3, Tailwind |
+| **Languages** | Java, JavaScript,C++ |
+| **Frontend** | React, HTML5, CSS3, Tailwind |
 | **Backend** | Node.js, Express, RESTful APIs |
 | **Database** | MySQL, MongoDB |
 | **DevOps & Tools** | Git, GitHub, Linux, Firebase, Docker (basic) |
@@ -75,6 +75,7 @@ I thrive on solving complex problems, optimizing performance, and writing clean,
 I’m currently exploring:
 - **Microservices architecture**
 - **Cloud-native app design**
+- **DSA**
 - **System design principles**
 
 I believe learning never stops — and I continuously evolve to stay aligned with industry standards.
