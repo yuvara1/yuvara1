@@ -55,8 +55,8 @@ I thrive on solving complex problems, optimizing performance, and writing clean,
 
 | Platform | Problems Solved | Rating / Score | Profile |
 |----------|----------------|----------------|---------|
-| **LeetCode** | 450+ | 1700 | [View Profile](https://leetcode.com/yuvaraj0402/) |
-| **HackerRank** | 200+ | 4⭐ | [View Profile](https://www.hackerrank.com/yuvarajacb11) |
+| **LeetCode** | 200+ | 1700 | [View Profile](https://leetcode.com/yuvaraj0402/) |
+| **HackerRank** | 150+ | 4⭐ | [View Profile](https://www.hackerrank.com/yuvarajacb11) |
 | **GeeksforGeeks** | 150+ | 3⭐ | [View Profile](https://auth.geeksforgeeks.org/user/yuvaraj3bj7) |
 
 ---
