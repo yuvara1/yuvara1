@@ -30,7 +30,7 @@ I thrive on solving complex problems, optimizing performance, and writing clean,
 
 | Category | Technologies |
 |-----------|---------------|
-| **Languages** | Java, JavaScript, TypeScript |
+| **Languages** | Java, JavaScript, C, C++ |
 | **Frontend** | React, Next.js, HTML5, CSS3, Tailwind |
 | **Backend** | Node.js, Express, RESTful APIs |
 | **Database** | MySQL, MongoDB |
