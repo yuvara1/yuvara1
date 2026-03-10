@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yuvaraj-b-6b498528a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://yuvaraj-in.web.app"><img src="https://img.shields.io/badge/Portfolio-0052CC?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://yuvarajdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0052CC?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="mailto:yuvarajacb11@zohomail.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/yuvaraj0402/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
