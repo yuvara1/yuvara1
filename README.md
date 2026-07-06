@@ -158,10 +158,18 @@ Real-time collaborative editor with instant cloud sync — lightweight, fast, an
 
 ---
 
-## 🏆 GitHub Trophies
+## ⚡ Quick Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvara1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+
+![LeetCode](https://img.shields.io/badge/LeetCode-1700%2B_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Problems](https://img.shields.io/badge/Problems_Solved-500%2B-4CAF50?style=for-the-badge&logo=leetcode&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-4_Star-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+
+![Experience](https://img.shields.io/badge/Experience-1%2B_Year-7C93C3?style=for-the-badge&logo=openjdk&logoColor=white)
+![Projects](https://img.shields.io/badge/Live_Projects-4-BC8CFF?style=for-the-badge&logo=vercel&logoColor=white)
+![Contest](https://img.shields.io/badge/Contest_Winner-2x-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
+
 </div>
 
 <br/>
