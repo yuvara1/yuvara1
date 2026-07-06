@@ -5,7 +5,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0f0c29,60:302b63,100:24243e&height=240&section=header&text=YUVARAJ%20B&fontSize=78&fontColor=E2E8F0&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20Open%20Source%20Builder&descAlignY=62&descColor=7C93C3&animation=twinkling&fontAlignX=50" width="100%" />
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=50&lines=☕+Backend+Engineer+→+Java+%2B+Spring+Boot+%2B+PostgreSQL;🔐+Securing+APIs+with+Spring+Security+%2B+JWT+%2B+RBAC;⚛️+React+Developer+→+Full+Stack+Capable;🏆+LeetCode+1700%2B+%7C+500%2B+Problems+Across+Platforms;🚀+Open+to+Java+Full+Stack+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=55&lines=Backend+Engineer+%7C+Java+%2B+Spring+Boot+%2B+PostgreSQL;Spring+Security+%7C+JWT+%7C+RBAC+API+Design;React+Developer+%7C+Full+Stack+Capable;LeetCode+1700%2B+%7C+500%2B+Problems+Solved;Open+to+Java+Full+Stack+Opportunities" alt="Typing SVG" />
 
 <br/><br/>
 
