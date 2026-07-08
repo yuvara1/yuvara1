@@ -31,7 +31,7 @@ $ cat ./yuvaraj.config.json
   "role"        : "Associate Software Engineer @ CAI, Bengaluru",
   "core"        : ["Java", "Spring Boot", "Spring Security", "React", "PostgreSQL"],
   "education"   : "BCA 2025 — Don Bosco College, Dharmapuri, TN",
-  "interests"   : ["Microservices", "System Design", "Clean Architecture", "DSA"],
+  "interests"   : ["Microservices", "System Design", "Design Patterns", "DSA"],
   "currently"   : "Building enterprise .NET systems → leveling up Java stack at night",
   "open_to"     : "Java Full Stack Roles @ Product / SaaS Companies  🟢"
 }
