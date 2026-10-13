@@ -277,3 +277,4 @@ architecture:
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,40:302b63,75:0f0c29,100:0D1117&height=120&section=footer" width="100%" />
+
